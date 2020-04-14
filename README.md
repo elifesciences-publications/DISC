@@ -4,6 +4,8 @@
 
 DISC is an open source MATLAB package for time series idealization (i.e. identifying significant states and transitions). We enhance change-point detection using divisive clustering to accelerate the typical speed of time-trajectory analysis by orders of magnitude with improved accuracy. We have designed the DISC framework to be a flexible approach, with applications primarily in single-molecule data, such as smFRET and force spectroscopy. The full details of this work are described in our recent manuscript which we ask you to kindly cite if using this software: 
 
+White, D., Goldschen-Ohm, M., Goldsmith, R. & Chanda, B. High-Throughput Single-Molecule Analysis via Divisive Segmentation and Clustering. eLife, (2020) https://doi.org/10.7554/eLife.53357.
+
 White, D., Goldschen-Ohm, M., Goldsmith, R. & Chanda, B. High-Throughput Single-Molecule Analysis via Divisive Segmentation and Clustering. bioRxiv, 603761 (2019).
 
 
